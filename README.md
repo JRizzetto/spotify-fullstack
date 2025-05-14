@@ -2,8 +2,6 @@
 
 Este é um projeto inspirado no Spotify, onde é possível visualizar artistas e músicas populares, além de escutar suas faixas preferidas.
 
-(./C:\Users\jeffe\OneDrive\Área de Trabalho\Programador\Cursos\Hashtag\projet-spotify\Aula-4\img-linkedin/1)
-
 ---
 
 ## 📌 Descrição
